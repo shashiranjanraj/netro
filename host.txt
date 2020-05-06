@@ -1,0 +1,1000 @@
+  425  flutter doctor
+  426  clear
+  427  flutter doctor
+  428  clear
+  429  whereis  android
+  430  clear
+  431  cd Downloads/
+  432  clear
+  433  cd android-studio-ide-191.6010548-linux/
+  434  clear
+  435  cd android-studio/
+  436  clear
+  437  cd bin/
+  438  ./studio.sh
+  439  vcd
+  440  cd
+  441  flutter doctor
+  442  clear
+  443  cd Documents/
+  444  clear
+  445  code
+  446  cd /var/www/html/web/
+  447  sudo chmod -R 777 makemifuture.com/
+  448  clear
+  449  cd makemifuture.com/
+  450  clear
+  451  sudo apt-get update
+  452  clear
+  453  xrandr
+  454  clear
+  455  sudo cvt 1920 1080 60
+  456  sudo xrandr --newmode "1920x1080_60.00" 173.00 1920 2048 2248 2576 1080 1083 1088 1120 -hsync +vsync
+  457  sudo xrandr -q
+  458  sudo xrandr --addmode Virtual1 1920x1080_60.00
+  459  clear
+  460  sudo cvt 1920 1080 60
+  461  cvt
+  462  sudo xrandr --newmode "1920x1080_60.00" 173.00 1920 2048 2248 2576 1080 1083 1088 1120 -hsync +vsync
+  463  sudo xrandr -q
+  464  clear
+  465  sudo xrandr --newmode "1920x1080_60.00" 173.00 1920 2048 2248 2576 1080 1083 1088 1120 -hsync +vsync
+  466  xrandr
+  467  clear
+  468  xrandr
+  469  cvt 1600 900
+  470  sudo xrandr --newmode "1600x900_60.00"  118.25  1600 1696 1856 2112  900 903 908 934 -hsync +vsync
+  471  sudo xrandr --addmode eDP-1 "1600x900_60.00"
+  472  gedit ~/.profile
+  473  sudo gedit ~/.profile
+  474  cd Documents/
+  475  clear
+  476  git clone https://github.com/facebookresearch/fastText.git
+  477  cd fastText
+  478  make
+  479  clear
+  480  fastText
+  481  git clone https://github.com/facebookresearch/fastText.git
+  482  cd fastText
+  483  sudo pip install .
+  484  composer update 
+  485  clear
+  486  composer require jeroennoten/laravel-adminlte
+  487  composer require maatwebsite/excel
+  488  composer require yajra/laravel-datatables-oracle:"~9.0"
+  489  composer require spatie/laravel-activitylog
+  490  composer require laravel/telescope
+  491  composer require laravel/socialite
+  492  composer require composer require laravel/socialite
+  493  clear
+  494  composer require laravel-frontend-presets/material-dashboard
+  495  composer require laravel/scout
+  496  composer require laravel/cashier
+  497  composer require laravel/horizon
+  498  composer install
+  499  composer update
+  500  cd ../
+  501  clear
+  502  composer global require laravel/installer
+  503  composer require laravel-frontend-presets/material-dashboard
+  504  clear
+  505  laravel new bills
+  506  composer create-project --prefer-dist laravel/laravel thewall
+  507  composer create-project --prefer-dist laravel/laravel blog
+  508  composer require laravel-frontend-presets/material-dashboard
+  509  composer dump-autoload
+  510  php artisan preset material
+  511  cd blog
+  512  composer require laravel-frontend-presets/material-dashboard
+  513  php artisan preset material
+  514  php artisan migrate --seed
+  515  sudo chmod -R 777 storage/
+  516  php artisan migrate
+  517  clear
+  518  catproc/cpuinfo <<<<<<<<<<<<<\ grep <'model name<'
+  519  cat /propc/cpuinfo | grep "model name"
+  520  cat /proc/cpuinfo | grep "model name"
+  521  uname -a
+  522  cd Downloads/\
+  523  cd Downloads
+  524  ls -al
+  525  clkeart
+  526  clezar
+  527  clear
+  528  ls -al
+  529  ls -ltr
+  530  sudo dpkg -i icaclient_13.1.0.285639_amd64.deb
+  531  sudo apt-get install -f
+  532  sudo dpkg -i icaclient_13.1.0.285639_amd64.deb
+  533  sudo apt-get install -f
+  534  sudo dpkg -i icaclient_13.1.0.285639_amd64.deb
+  535  cd
+  536  cd Downloads/
+  537  clear
+  538  sudo apt-get update
+  539  clear
+  540  sudo dpkg -i icaclient_13.1.0.285639_amd64.deb
+  541  sudo apt-get install -f
+  542  sudo apt-get autoremove
+  543  clear
+  544  sudo dpkg -i icaclient_13.1.0.285639_amd64.deb
+  545  sudo dpkg -f icaclient_13.1.0.285639_amd64.deb
+  546  clear
+  547  sudo dpkg --add-architecture i386
+  548  sudo apt-get update
+  549  sudo dpkg -f icaclient_13.1.0.285639_amd64.deb
+  550  sudo dpkg -i icaclient_13.1.0.285639_amd64.deb
+  551  sudo apt-get install -f
+  552  sudo dpkg -i icaclient_13.1.0.285639_amd64.deb
+  553  sudo apt-get install -f
+  554  sudo dpkg --add-architecture i386\
+  555  sudo dpkg --add-architecture i386
+  556  sudo apt-get update
+  557  clear
+  558  ls -ltr
+  559  sudo dpkg -i icaclient_13.2.0.322243_armel.deb
+  560  ls -ltr
+  561  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  562  sudo apt-get install -f
+  563  sudo apt-get install\
+  564  sudo apt-get update
+  565  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  566  clear
+  567  sudo reboot 
+  568  cd Downloads/
+  569  clear
+  570  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  571  sudo apt-get install -f
+  572  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  573  sudo apt-get install -f
+  574  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  575  sudo apt-get install -f
+  576  clezt
+  577  clear
+  578  sudo apt-get install php-ext
+  579  sudo apt-get install php
+  580  sudo apt-get install devtodo
+  581  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  582  sudo apt-get install icaclient
+  583  sudo apt --fix-broken install
+  584  sudo apt-get install icaclient
+  585  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  586  sudo apt-get install -f
+  587  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  588  sudo apt --fix-broken install
+  589  sudo apt-get install icaclient
+  590  sudo apt --fix-broken install
+  591  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  592  sudo apt-get install -f
+  593  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  594  clear
+  595  sudo dpkg -i icaclient_13.2.0.322243_amd64.deb
+  596  ls -ltr
+  597  sudo dpkg -i icaclient_13.8.0.10299729_i386.deb
+  598  sudo apt-get install -f
+  599  sudo dpkg -i icaclient_13.8.0.10299729_i386.deb
+  600  shut
+  601  sudo apt-get update
+  602  sudo apt-get install open-ssh
+  603  sudo apt-get install openssh
+  604  sudo apt-get install ssh
+  605  clear
+  606  ssh new@sdf.org
+  607  ssh root@165.22.211.210
+  608  clear
+  609  ssh-keygen
+  610  cat ~/.ssh/id_rsa.pub
+  611  ssh root@165.22.211.254
+  612  cat ~/.ssh/id_rsa.pub
+  613  clear
+  614  cd /var/www/html/
+  615  cd shashiranjan/
+  616  git status 
+  617  git add .
+  618  git status 
+  619  git commit -m "changes"
+  620  git push
+  621  nano ~/.bashrc
+  622  cd /var/www/html/
+  623  cd shashiranjan/
+  624  clear
+  625  cd ../web/orange/
+  626  clear
+  627  sudo chmod -R 777 /var/www/html/web/orange/
+  628  ssh root@165.22.211.254
+  629  speedtest
+  630  ssh root@165.22.211.254
+  631  ssh root@165.22.211.254
+  632  git status 
+  633  top
+  634  htop
+  635  clear
+  636  ssh root@165.22.211.254
+  637  clear
+  638  jpegoptim --size=100k nehaarora.jpeg --overwrite
+  639  jpegoptim --size=90k nehaarora.jpeg --overwrite
+  640  git status 
+  641  git add .
+  642  git commit -m "new theme"
+  643  git push
+  644  clear
+  645  git add .
+  646  git commit -m "new theme"
+  647  git push
+  648  git commit -am "new theme"
+  649  git push
+  650  clear
+  651  cd ../web/
+  652  clear
+  653  git clone git@gitlab.com:shashiranjanraj/billsmanegemnt.git
+  654  composer install
+  655  cd billsmanegemnt/
+  656  composer install
+  657  composer require laravel/ui
+  658  composer update
+  659  php artisan --version
+  660  composer update
+  661  composer install
+  662  clear
+  663  composer create-project --prefer-dist laravel/laravel blog
+  664  ls -al
+  665  clear
+  666  git status 
+  667  git add .
+  668  clear
+  669  git status 
+  670  clear
+  671  git status 
+  672  git commit -m "verson updated"
+  673  sudo chmod -R  777 storage/
+  674  git status 
+  675  git add .
+  676  git status 
+  677  git commit -m "verson updated"
+  678  git push
+  679  composer require laravel/ui
+  680  php artisan ui vue --auth
+  681  composer require laravel-frontend-presets/material-dashboard
+  682  php artisan ui material
+  683  composer dump-autoload
+  684  php artisan migrate --seed
+  685  git push
+  686  git status
+  687  git add .
+  688  git status 
+  689  git commit -m "verson updated"
+  690  git push
+  691  git status 
+  692  git commit -am "verson updated"
+  693  git push
+  694  clear
+  695  git push
+  696  git commit -am "verson updated"
+  697  git push
+  698  composer require laravel/socialite
+  699  cd ../../shashiranjan/
+  700  clear
+  701  sudo apt-get install jpegoptim
+  702  jpegoptim
+  703  clear
+  704  git commit -am "verson updated"
+  705  git status 
+  706  git add .
+  707  git push 
+  708  cd ../../shashiranjan/
+  709  clear
+  710  cd images/
+  711  ls -al
+  712  clear
+  713  jpegoptim --size=100k about.jpg --overwrite
+  714  ssh root@165.22.211.254
+  715  git status 
+  716  git add.
+  717  git add .
+  718  git status 
+  719  git commit -am "intial setup""
+  720  git commit -am "intial setup"
+  721  clear
+  722  git push
+  723  clear
+  724  php artisan migrate:rollback
+  725  clear
+  726  php artisan migrate
+  727  clear
+  728  php artisan db:seed
+  729  clear
+  730  php artisan migrate:rollback
+  731  clear
+  732  php artisan migrate
+  733  php artisan db:seed
+  734  clear
+  735  php artisan migrate:rollback
+  736  php artisan migrate
+  737  php artisan db:seed
+  738  clear
+  739  php artisan migrate:rollback
+  740  php artisan migrate
+  741  php artisan db:seed
+  742  clear
+  743  ssh root@167.71.224.223
+  744  ssh root167.71.224.223
+  745  ssh root@167.71.224.223
+  746  cd /var/www/html/
+  747  cd web/
+  748  clear
+  749  git clone git@gitlab.com:amitg6062/feedforindia.git
+  750  cd feedforindia/
+  751  git status 
+  752  git stash 
+  753  clear
+  754  git status
+  755  git add .
+  756  clear
+  757  git status 
+  758  git add .
+  759  clear
+  760  git status 
+  761  git commit -am "basic main page setup"
+  762  git status 
+  763  git commit -am "git ignoure updated"
+  764  git push
+  765  git status 
+  766  git rm -r --cached .
+  767  git add .
+  768  git commit -m ".gitignore fix"
+  769  git push
+  770  git pull
+  771  clear
+  772  exit
+  773  sudo apt-get update
+  774  clear
+  775  sudo apt-get update
+  776  clear
+  777  cd /var/www/html/web/feedforindia/ ;
+  778  clear
+  779  git pull
+  780  clear
+  781  mysql root@167.71.224.223
+  782  root@167.71.224.223
+  783  ssh root@167.71.224.223
+  784  cd /var/www/html/web/feedforindia/
+  785  clear
+  786  git pull
+  787  git status 
+  788  git add .
+  789  git status 
+  790  git commit -m "psd to html change updated"
+  791  clear
+  792  git pull
+  793  git status
+  794  git checkout --theirs application/config/database.php
+  795  git status 
+  796  git commit -m "pull"
+  797  git rm application/config/database.php
+  798  git status
+  799  git commit -am "updated code"
+  800  git push
+  801  git commit -am "updated code"
+  802  git push
+  803  mysql root@167.71.224.223
+  804  ssh root@167.71.224.223
+  805  ssh root@167.71.224.223
+  806  cd /var/www/html/web/feedforindia/
+  807  git commit -m "sentry remove"
+  808  git commit -am "sentry remove"
+  809  git push
+  810  git commit -am "sentry remove"
+  811  git push
+  812  git status
+  813  git add .
+  814  git commit -am "sentry remove"
+  815  git push
+  816  git commit -am "sentry remove"
+  817  git push
+  818  ssh root@167.71.224.223
+  819  cd /var/www/html/
+  820  cd web/feedforindia/
+  821  clear
+  822  git pull
+  823  git commit -am "query"
+  824  git push
+  825  clear
+  826  sudo apt-get update 
+  827  clear
+  828  git pull
+  829  git commit -m "query"
+  830  git status 
+  831  git add .
+  832  git commit -m "query"
+  833  clear
+  834  git pull
+  835  clear
+  836  ifconfig 
+  837  git status 
+  838  git add .
+  839  git commit -m "query"
+  840  git push
+  841  clear
+  842  ssh root@167.71.224.223
+  843  top
+  844  clear
+  845  htop
+  846  clear
+  847  curl -u https://maps.googleapis.com/maps/api/geocode/json?address=PR+Vatika+Biharipur,+Delhi+IN&key=AIzaSyCJtPNma9bW1FzGgA1JULIiSNtkAWZIoGE
+  848  clear
+  849  curl -u https://maps.googleapis.com/maps/api/geocode/json?address=PR+Vatika+Biharipur,+Delhi+IN&key=AIzaSyCJtPNma9bW1FzGgA1JULIiSNtkAWZIoGE
+  850  sudo apt-get install php-curl
+  851  git status 
+  852  git commit -am "sentry remove"
+  853  git push
+  854  clear
+  855  ssh root@167.71.224.223
+  856  git pull
+  857  clear
+  858  git pull
+  859  git merge origin/nikhil_work
+  860  git commit -am "sentry remove"
+  861  git push
+  862  clear
+  863  git pull
+  864  git stash
+  865  clear
+  866  git pull
+  867  git commit -am "sentry remove"
+  868  git push
+  869  clear
+  870  git pull
+  871  clear
+  872  git pull
+  873  git branch 
+  874  clear
+  875  git pull
+  876  clear
+  877  cd ../ls -al
+  878  cd ../ && las -al
+  879  cd ../ && ls -al
+  880  cd web/
+  881  clear
+  882  ls -al
+  883  clear
+  884  sudo service apache2 restart 
+  885  ifconfig 
+  886  git commit -am "chnahege map""
+  887  git commit -am "chnahege map"
+  888  git push
+  889  git status
+  890  sudo reboot 
+  891  youtube-dl https://www.youtube.com/watch?v=cLtPi3OhpGc
+  892  sudo apt-get update
+  893  git pull
+  894  clear
+  895  git push
+  896  git commit -am "chnahege map"
+  897  git push
+  898  git commit -am "chnahege map"
+  899  git push
+  900  git pull
+  901  cd Documents/
+  902  clear
+  903  sh initialserversetup.sh
+  904  sudo sh  initialserversetup.sh
+  905  clear
+  906  php --version
+  907  clear
+  908  php --version
+  909  php --v
+  910  php -v
+  911  clear
+  912  php -v
+  913  ssh root@139.59.53.30
+  914  ssh root@165.22.211.254
+  915  clear
+  916  ssh root@165.22.211.254
+  917  4
+  918  clear
+  919  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  920  sudo apt-get install apt-transport-https
+  921  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  922  sudo apt-get update
+  923  sudo apt-get install sublime-text
+  924  speedtest-cli 
+  925  clear
+  926  ssh root@165.22.211.254
+  927  ssh root@165.22.211.254
+  928  clear
+  929  ssh root@165.22.211.254
+  930  wget -qO - https://download.jitsi.org/jitsi-key.gpg.key | sudo apt-key add -
+  931  sudo sh -c "echo 'deb https://download.jitsi.org stable/' > /etc/apt/sources.list.d/jitsi-stable.list"
+  932  sudo apt-get -y update
+  933  sudo apt-get -y install jitsi-meet
+  934  jitsi
+  935  jitsi-mmet
+  936  jitsi-meet
+  937  jitsi
+  938  clear
+  939  sudo reboot 
+  940  clear
+  941  ssh root@165.22.211.254
+  942  sudo apt-add-repository ppa:ehoover/compholio
+  943  sudo apt-get update && sudo apt-get install netflix-desktop
+  944  htop
+  945  git init
+  946  git remote add origin https://github.com/shashiranjanraj/weather.git
+  947  git push -u origin master
+  948  git remote add origin git@github.com:shashiranjanraj/weather.git
+  949  git init
+  950  clear
+  951  git remote add origin git@github.com:shashiranjanraj/weather.git
+  952  git push -u origin master
+  953  clear
+  954  sudo apt-get -y update
+  955  flutter run --profile
+  956  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  957  clear
+  958  flutter upgrade
+  959  dart
+  960  sudo apt-get upgrade
+  961  clear
+  962  lsb_release -a
+  963  uname -mrs
+  964  sudo apt update
+  965  sudo apt list --upgradable
+  966  sudo apt-get upgrade
+  967  sudo reboot
+  968  sudo apt --purge autoremove
+  969  clear
+  970  sudo apt install update-manager-core\
+  971  sudo apt install update-manager-core
+  972  sudo do-release-upgrade
+  973  sudo do-release-upgrade -d
+  974  sudo apt update
+  975  php -v
+  976  sudo apt-get update 
+  977  clear
+  978  ssh root@165.22.211.254
+  979  clear
+  980  php -v
+  981  clear
+  982  ssh root@165.22.211.254
+  983  clear
+  984  ssh root@165.22.211.254
+  985  ifconfig 
+  986  clear
+  987  sudo add-apt-repository universe
+  988  sudo apt install wireshark
+  989  clear
+  990  dpkg-reconfigure wireshark-common
+  991  sudo dpkg-reconfigure wireshark-common
+  992  sudo chmod +x /usr/bin/dumpcap
+  993  sudo snap install postman
+  994  clear
+  995  ssh root@165.22.211.254
+  996  ssh root@165.22.211.254
+  997  cd /var/www/
+  998  ls -0al
+  999  ls -al
+ 1000  cd html/
+ 1001  ls -al
+ 1002  cd web/
+ 1003  clear
+ 1004  composer create-project --prefer-dist laravel/laravel feedforindia
+ 1005  composer create-project --prefer-dist laravel/laravel feedforindialara
+ 1006  cd feedforindialara/
+ 1007  clear
+ 1008  git remote add origin git@github.com:shashiranjanraj/feedforindialara.git
+ 1009  git init
+ 1010  git remote add origin git@github.com:shashiranjanraj/feedforindialara.git
+ 1011  git push -u origin master
+ 1012  git status 
+ 1013  git  add.
+ 1014  git  add .
+ 1015  git status 
+ 1016  clear
+ 1017  git commit -m "first commit"
+ 1018  clear
+ 1019  git push -u origin master
+ 1020  clear
+ 1021  cd
+ 1022  cd .ssh/
+ 1023  ls -al;
+ 1024  ls -al
+ 1025  cat id_ed25519.pub
+ 1026  cd /var/www/html/web/feedforindialara/
+ 1027  clear
+ 1028  git push -u origin master
+ 1029  clear
+ 1030  htop
+ 1031  sudo systemctl apache2 restart
+ 1032  clear
+ 1033  php -v
+ 1034  clear
+ 1035  sudo apt-get install apache2
+ 1036  clear
+ 1037  sudo service apache2 restart
+ 1038  systemctl status apache2.service
+ 1039  clear
+ 1040  cd /etc/apache2/
+ 1041  ls -al
+ 1042  nano apache2.conf
+ 1043  clear
+ 1044  systemctl status apache2.service
+ 1045  clear
+ 1046  ls -al
+ 1047  cd mods-enabled/
+ 1048  ls -al
+ 1049  clear
+ 1050  cd
+ 1051  sudo apt-get install php7.4-fpm
+ 1052  sudo systemctl apache2 restart
+ 1053  sudo service apache2 restart
+ 1054  systemctl status apache2.service
+ 1055  clear
+ 1056  sudo apt autoremove
+ 1057  clear
+ 1058  service apache2 start
+ 1059  systemctl status apache2.service
+ 1060  cleart
+ 1061  clear
+ 1062  sudo apt remove apache2.*
+ 1063  sudo apt remove apache2
+ 1064  clear
+ 1065  dpkg -S `which apache2`
+ 1066  sudo apt-get autoremove
+ 1067  sudo service apache2 stop
+ 1068  sudo apt-get purge apache2 apache2-utils apache2.2-bin apache2-common
+ 1069  sudo apt-get autoremove
+ 1070  whereis apache2
+ 1071  sudo rm -rf /etc/apache2
+ 1072  clear
+ 1073  sudo reboot 
+ 1074  cd /var/www/html/
+ 1075  nano index.php
+ 1076  clear
+ 1077  history 
+ 1078  cd
+ 1079  sudo apt-get update 
+ 1080  clear
+ 1081  nginx -v
+ 1082  systemctl status nginx
+ 1083  nginx -v
+ 1084  clear
+ 1085  cd /etc/nginx/
+ 1086  ls -la
+ 1087  nano conf.d
+ 1088  cd sites-available/
+ 1089  ls -al
+ 1090  nano default
+ 1091  sudo nano default
+ 1092  systemctl status nginx
+ 1093  sudo service nginx restart
+ 1094  clear
+ 1095  sudo service nginx restart
+ 1096  systemctl status nginx.service
+ 1097  sudo nano default
+ 1098  sudo service nginx restart
+ 1099  systemctl status nginx.service
+ 1100  clear
+ 1101  sudo gedit default
+ 1102  systemctl status nginx.service
+ 1103  sudo service nginx restart
+ 1104  clear
+ 1105  cd
+ 1106  clear
+ 1107  sudo apt-get remove nginx nginx-common
+ 1108  clear
+ 1109  sudo apt-get autoremove apache2
+ 1110  clear
+ 1111  sudo apt-get install php
+ 1112  sudo apt-get install apache2
+ 1113  clear
+ 1114  sudo service apache2 start
+ 1115  systemctl status apache2.service
+ 1116  cd /var/log/
+ 1117  ls -al
+ 1118  cd apache2/
+ 1119  clear
+ 1120  ls -al
+ 1121  tail -50 error.log
+ 1122  nano error.log
+ 1123  nano access.log
+ 1124  clear
+ 1125  cd
+ 1126  clear
+ 1127  sudo service apache2 start
+ 1128  journalctl -xe
+ 1129  clear
+ 1130  sudo apt-get update 
+ 1131  clear
+ 1132  sudo apt-get purge nginx
+ 1133  sudo apt-get autoremove
+ 1134  clear
+ 1135  sudo apt-get clear
+ 1136  sudo apt-get clean
+ 1137  clear
+ 1138  sudo apt-get install apache2
+ 1139  clear
+ 1140  sudo service apache2 stop
+ 1141  sudo service apache2 start
+ 1142  systemctl status apache2.service
+ 1143  netstat -plant | grep 80
+ 1144  clear
+ 1145  sudo lsof -i -P -n
+ 1146  kill -9 17682
+ 1147  sudo kill -9 17682
+ 1148  kill -9 17682
+ 1149  sudo lsof -i -P -n
+ 1150  clear
+ 1151  sudo service apache2 start
+ 1152  sudo lsof -i -P -n
+ 1153  sudo service apache2 start
+ 1154  clear
+ 1155  sudo service apache2 start
+ 1156  systemctl status apache2.service
+ 1157  netstat -plant | grep 80
+ 1158  sudo apt-get --reinstall install apache2-bin
+ 1159  sudo service apache2 start
+ 1160  sudo apt-get install libapache2-mod-php
+ 1161  sudo service apache2 restart
+ 1162  sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
+ 1163  clear
+ 1164  sudo a2enmod php 
+ 1165  sudo apt purge libapache2-mod-php  libapache2-mod-php
+ 1166  sudo apt install libapache2-mod-php  libapache2-mod-php
+ 1167  sudo a2enmod php 
+ 1168  sudo service apache2 restart
+ 1169  clear
+ 1170  php -v
+ 1171  clear
+ 1172  sudo reboot 
+ 1173  sudo apt-get install apache2
+ 1174  sudo service apache2 stop
+ 1175  sudo service apache2 start
+ 1176  systemctl status apache2.service
+ 1177  clear
+ 1178  sudo apt-get autoremove
+ 1179  sudo apt-get purge apache2
+ 1180  sudo apt-get update 
+ 1181  clear
+ 1182  whereis apache2
+ 1183  clear
+ 1184  whereis apache2
+ 1185  rm -rf /usr/sbin/apache2 
+ 1186  sudo rm -rf /usr/sbin/apache2 
+ 1187  sudo rm -rf /usr/share/apache2/
+ 1188  rm -rf /usr/share/man/man8/apache2.8.gz
+ 1189  sudo rm -rf /usr/share/man/man8/apache2.8.gz
+ 1190  clear
+ 1191  whereis apache2
+ 1192  sudo rm -rf /usr/lib/apache2/
+ 1193  clear
+ 1194  sudo apt-get update 
+ 1195  clear
+ 1196  whereis apache2
+ 1197  sudo apt-get install apache2
+ 1198  cd /var/www/html/
+ 1199  clear
+ 1200  ls -al
+ 1201  sudo rm -rf index.nginx-debian.html
+ 1202  clear
+ 1203  cd /etc/nginx/
+ 1204  clear
+ 1205  ls -al
+ 1206  cd sites-available/
+ 1207  ls -al
+ 1208  nano default
+ 1209  sudo nano default
+ 1210  sudo nginx -s reload
+ 1211  clear
+ 1212  sudo service apache2 start
+ 1213  sudo systemctl status nginx
+ 1214  clear
+ 1215  sudo /etc/init.d/nginx stop
+ 1216  sudo service apache2 start
+ 1217  php -v
+ 1218  apache2 -v
+ 1219  clear
+ 1220  sudo apt-get install php libapache2-mod-php7.4 
+ 1221  sudo a2enmod php7.4
+ 1222  sudo apt-get install php libapache2-mod-php
+ 1223  sudo a2enmod php
+ 1224  sudo a2enmod php7.4
+ 1225  a2query -m php7.4
+ 1226  a2query -m php
+ 1227  sudo service apache2 restart
+ 1228  sudo a2enmod php7.4
+ 1229  sudo apt-get --reinstall apache2
+ 1230  sudo apt --reinstall apache2
+ 1231  sudo --reinstall apache2
+ 1232  clear
+ 1233  sudo apt-get install apache2 php libapache2-mod-php
+ 1234  clear
+ 1235  sudo apt-get install apache2 php libapache2-mod-php
+ 1236  clear
+ 1237  apache2ctl -M
+ 1238  clear
+ 1239  sudo apache2ctl start
+ 1240  systemctl status apache2
+ 1241  clear
+ 1242  php -v
+ 1243  clear
+ 1244  sudo apt install -y php7.4
+ 1245  sudo apt install php7.4-curl php7.4-gd php7.4-json php7.4-mbstring php7.4-xml
+ 1246  sudo apt install apache2 libapache2-mod-php7.4
+ 1247  sudo apt install phpmyadmin
+ 1248  sudo systemctl restart apache2
+ 1249  sudo systemctl start apache2
+ 1250  sudo systemctl stop apache2
+ 1251  sudo firewall-cmd --permanent --add-service=http
+ 1252  sudo firewall-cmd --permanent --add-service=https
+ 1253  sudo echo "<?php phpinfo(); ?>" > /var/www/html/info.php
+ 1254  clear
+ 1255  sudo systemctl start apache2
+ 1256  php -S
+ 1257  php -S 127.0.0.1:8080
+ 1258  cd /var/www/html/
+ 1259  clear
+ 1260  php -S 127.0.0.1:8080
+ 1261  sudo apt-get remove nginx nginx-common
+ 1262  sudo apt-get purge nginx nginx-common
+ 1263  sudo apt-get autoremove
+ 1264  sudo rm -rf /etc/nginx
+ 1265  sudo apt-get purge nginx-common
+ 1266  sudo apt-get remove nginx-full nginx-common
+ 1267  clear
+ 1268  sudo apt-get install apache2
+ 1269  sudo apt-get update 
+ 1270  clear
+ 1271  sudo a2enmod php7.4
+ 1272  sudo apt-get install libapache2-mod-php7.4
+ 1273  sudo a2enmod php7.4
+ 1274  clear
+ 1275  cd /etc/apache2/
+ 1276  clear
+ 1277  ls -al
+ 1278  cd mods-available/
+ 1279  clear
+ 1280  ls -al
+ 1281  cd ../mods-enabled/
+ 1282  clear
+ 1283  ls -al
+ 1284  cd ../
+ 1285  cd
+ 1286  cd /usr/lib/apache2/
+ 1287  clear
+ 1288  ls -al
+ 1289  cd modules/
+ 1290  ls -al
+ 1291  nano mod_ssl.so
+ 1292  clear
+ 1293  cd
+ 1294  ls /etc | grep php
+ 1295  sudo apt-get purge 'php*'
+ 1296  clear
+ 1297  sudo apt-get autoremove 
+ 1298  clear
+ 1299  php -v
+ 1300  sudo apt-get install php
+ 1301  php -v
+ 1302  clear
+ 1303  sudo apt-get install phpmyadmin
+ 1304  clear
+ 1305  cd /var/www/html/
+ 1306  nano info.php
+ 1307  sudo /etc/php/7.4/apache2/php.ini
+ 1308  sudo gedit  /etc/php/7.4/apache2/php.ini
+ 1309  cd web/feedforindialara/
+ 1310  clear
+ 1311  composer install
+ 1312  sudo apt-get composer
+ 1313  sudo apt-get install composer
+ 1314  composer install
+ 1315  clear
+ 1316  code
+ 1317  sudo chmod -R 777 storage/
+ 1318  clear
+ 1319  cd
+ 1320  ssh root@165.22.211.254
+ 1321  xrandr --listactivemonitors
+ 1322  clear
+ 1323  xrandr
+ 1324  clear
+ 1325  xrandr
+ 1326  cvt 1600 900
+ 1327  cvt 1920 1080
+ 1328* sudo xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsyn
+ 1329  sudo xrandr --addmode eDP-1 "1900x1080_60.00"
+ 1330  sudo xrandr --addmode eDP-1 "1920x1080_60.00"
+ 1331  wget -O Downloads/zoom.deb https://zoom.us/client/latest/zoom_amd64.deb
+ 1332  sudo apt update
+ 1333  sudo apt install ~/Downloads/zoom.deb
+ 1334  clear
+ 1335  cd /var/www/html/web/
+ 1336  clear
+ 1337  composer create-project --prefer-dist laravel/laravel netro
+ 1338  cd netro/
+ 1339  clear
+ 1340  git init 
+ 1341  clear
+ 1342  git remote add origin git@github.com:shashiranjanraj/netro.git
+ 1343  git stay
+ 1344  git status 
+ 1345  clear
+ 1346  git add .
+ 1347  git status 
+ 1348  git commit -m "First Commit By Shashi Ranjan"
+ 1349  clear
+ 1350  git push origin master
+ 1351  git pull
+ 1352  git pull origin master
+ 1353  clear
+ 1354  git status 
+ 1355  git remote update 
+ 1356  git push -u origin master
+ 1357  git pull
+ 1358  git pull origin master
+ 1359  clear
+ 1360  cd ../
+ 1361  rm -rf netro/
+ 1362  sudo rm -rf netro/
+ 1363  clear
+ 1364  mkdir netro
+ 1365  cd netro/
+ 1366  clear
+ 1367  git init 
+ 1368  clear
+ 1369  git remote add origin git@github.com:shashiranjanraj/netro.git
+ 1370  clear
+ 1371  git status 
+ 1372  git status
+ 1373  git add .
+ 1374  git status
+ 1375  git pull
+ 1376  git pull origin master
+ 1377  clear
+ 1378  ls -al
+ 1379  nano README.md
+ 1380  git add .
+ 1381  git push origin master
+ 1382  clear
+ 1383  composer create-project --prefer-dist laravel/laravel netro
+ 1384  clear
+ 1385  cd netro/
+ 1386  mv * ../
+ 1387  ls la\
+ 1388  ls -al
+ 1389  mv .editorconfig .env .env.example .gitattributes .gitignore .styleci.yml ../
+ 1390  clear
+ 1391  ls -al
+ 1392  cd ../
+ 1393  rm -rf netro/
+ 1394  clear
+ 1395  git add .
+ 1396  clear
+ 1397  git status
+ 1398  git commit -am "Initial Setup Done by Shashi Ranjan"
+ 1399  clear
+ 1400  composer install
+ 1401  git status 
+ 1402  sudo chmod -R 777 storage/
+ 1403  clear
+ 1404  git status 
+ 1405  clear
+ 1406  git push origin master
+ 1407  git statua 
+ 1408  git status
+ 1409  git add index.php robots.txt web.config .htaccess 
+ 1410  clear
+ 1411  git status 
+ 1412  git add .
+ 1413  clear
+ 1414  git commit -am "remove public"
+ 1415  git push 
+ 1416  git push origin master 
+ 1417  clear
+ 1418  php artisan mgrate
+ 1419  php artisan migrate
+ 1420  clear
+ 1421  php artisan migrate
+ 1422  clear
+ 1423  cvt 1920 1080
+ 1424  history >host.txt

@@ -84,6 +84,10 @@
                     Laravel
                 </div>
 
+                <div>
+                    @name('shashi ranjan');
+                </div>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>

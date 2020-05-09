@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -24,3 +25,8 @@ Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('pepa', 'MissingDataController@testdata');
+Route::get('pepapig', 'MissingDataController@testdatastatic');
+Route::get('popa','MissingDataController@chocha');
+Route::fallback('Controller@sbsbs');

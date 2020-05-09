@@ -10,4 +10,14 @@ use Illuminate\Routing\Controller as BaseController;
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+    public function __call($method, $parameters)
+    {
+        echo "I collerd and uyou";
+    }
+    public static function __callStatic($name, $arguments)
+    {
+        echo "called static";
+    }
+
+
 }

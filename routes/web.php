@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Routing\UrlGenerator;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,4 +30,9 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('pepa', 'MissingDataController@testdata');
 Route::get('pepapig', 'MissingDataController@testdatastatic');
 Route::get('popa','MissingDataController@chocha');
-Route::fallback('Controller@sbsbs');
+Route::fallback('Controller@listBrand');
+/*
+
+ $urlArray=  explode('/',url()->current());
+    return 'Controller@'.$urlArray[3];
+*/

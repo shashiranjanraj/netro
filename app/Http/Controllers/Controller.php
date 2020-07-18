@@ -19,7 +19,7 @@ class Controller extends BaseController
 
            $object = app('App\\'.$className);
            
-            dd($object->all());
+        return view('list'.$className);
 
        }else{
         echo "chahahs";

@@ -31,6 +31,9 @@ Route::get('pepa', 'MissingDataController@testdata');
 Route::get('pepapig', 'MissingDataController@testdatastatic');
 Route::get('popa','MissingDataController@chocha');
 Route::fallback('Controller@listBrand');
+
+Route::get('getdate','AshiController@myFirstFunction');
+Route::get('myFirstRoute','FirstController@myFirstMethod');
 /*
 
  $urlArray=  explode('/',url()->current());

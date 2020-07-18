@@ -1,0 +1,8 @@
+[{
+    "name": {
+        "required": true,
+        "number": true,
+        "max": 50,
+        "min": 100
+    }
+}]
